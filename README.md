@@ -1,7 +1,7 @@
 ## Name: DEVA DHARSHINI.I
 ## Register no.212223240026
 ## Date:12-04-2025
-<H3>Experiment No. 2 </H3>
+## Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
